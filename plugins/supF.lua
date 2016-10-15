@@ -731,7 +731,7 @@ end
  
 
   local settings = data[tostring(target)]['settings']
-  local text = "تنظیمات سوپر گروه".."\n"
+  local text = "تنظیمات سوپر گروه رباته تله ولف".."\n"
   .."🔹👈وضعیت ضد لینک: "..settings.lock_link.."\n"
   .."🔹👈وضعیت حساسیت پیام: "..settings.flood.."\n"
   .."🔹👈وضعیت مقدار حساسیت پیام(فلود): "..NUM_MSG_MAX.."\n"
@@ -760,7 +760,7 @@ end
   .."تاریخ انقضای گروه: "..expire.."روز دیگر".."\n"
   .."➖➖➖➖➖➖➖➖➖➖➖➖➖➖".."\n"
   .."چنل: 👇👇👇👇👇👇👇👇".."\n"
-  .."@GuardCh 🔉".."\n"
+  .."@Telewolf_ch 🔉".."\n"
   .."#موفق باشید"
   return text
 end
